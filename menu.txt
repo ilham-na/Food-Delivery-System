@@ -1,0 +1,7 @@
+biriyani 250.00
+friedrice 200.00
+pasta 270.00
+noodles 150.00
+kottu 200.00
+Burger 599.00
+Pizza 850.00
