@@ -1,8 +1,7 @@
 /**************************
 Project about:	Food delivery system
 Group Members	:N.M.ILHAM
-		        :M.J.ARKAM
-		        :T.JARUSNAN
+		:M.J.ARKAM
 GROUP NUMBER	: 33
 **************************/
 
