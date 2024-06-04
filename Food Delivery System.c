@@ -1,9 +1,7 @@
-/**************************
+/************************************
 Project about:	Food delivery system
-Group Members	:N.M.ILHAM
-		:M.J.ARKAM
-GROUP NUMBER	: 33
-**************************/
+Done By:	N.M.ILHAM
+************************************/
 
 #include <stdio.h>
 #include <string.h>
